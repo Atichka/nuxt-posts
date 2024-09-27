@@ -1,6 +1,6 @@
 <template>
   <div>
-    <table class="table main">
+    <table class="table">
       <thead class="table__header">
         <tr>
           <th class="table__header_row" style="width: 10%;">ID</th>
