@@ -1,6 +1,6 @@
 <template>
   <div>
-    <table class="table">
+    <table class="table main">
       <thead class="table__header">
         <tr>
           <th class="table__header_row" style="width: 10%;">ID</th>
@@ -79,7 +79,7 @@ fetchPosts()
 </script>
 
 <style>
-table {
+.table {
   text-indent: 0;
   border-color: inherit;
   border-collapse: collapse;
